@@ -1,0 +1,61 @@
+D:\SEMESTER 4 (SEDANG BERLANGSUNG)\Pemrograman Visual\E-Book_Manager\E-Book_Manager\obj\Debug\E_Book_Manager.GUI.detail.resources
+D:\SEMESTER 4 (SEDANG BERLANGSUNG)\Pemrograman Visual\E-Book_Manager\E-Book_Manager\obj\Debug\E_Book_Manager.GUI.Home.resources
+D:\SEMESTER 4 (SEDANG BERLANGSUNG)\Pemrograman Visual\E-Book_Manager\E-Book_Manager\obj\Debug\E_Book_Manager.Properties.Resources.resources
+D:\SEMESTER 4 (SEDANG BERLANGSUNG)\Pemrograman Visual\E-Book_Manager\E-Book_Manager\obj\Debug\E-Book_Manager.csproj.GenerateResource.cache
+D:\SEMESTER 4 (SEDANG BERLANGSUNG)\Pemrograman Visual\E-Book_Manager\E-Book_Manager\obj\Debug\E-Book_Manager.csproj.CoreCompileInputs.cache
+D:\SEMESTER 4 (SEDANG BERLANGSUNG)\Pemrograman Visual\E-Book_Manager\E-Book_Manager\bin\Debug\E-Book_Manager.exe.config
+D:\SEMESTER 4 (SEDANG BERLANGSUNG)\Pemrograman Visual\E-Book_Manager\E-Book_Manager\bin\Debug\E-Book_Manager.exe
+D:\SEMESTER 4 (SEDANG BERLANGSUNG)\Pemrograman Visual\E-Book_Manager\E-Book_Manager\bin\Debug\E-Book_Manager.pdb
+D:\SEMESTER 4 (SEDANG BERLANGSUNG)\Pemrograman Visual\E-Book_Manager\E-Book_Manager\obj\Debug\E-Book_Manager.exe
+D:\SEMESTER 4 (SEDANG BERLANGSUNG)\Pemrograman Visual\E-Book_Manager\E-Book_Manager\obj\Debug\E-Book_Manager.pdb
+D:\SEMESTER 4 (SEDANG BERLANGSUNG)\Pemrograman Visual\E-Book_Manager\E-Book_Manager\obj\Debug\E_Book_Manager.GUI.home_menu.resources
+D:\SEMESTER 4 (SEDANG BERLANGSUNG)\Pemrograman Visual\E-Book_Manager\E-Book_Manager\obj\Debug\E_Book_Manager.GUI.Favorit_Menu.resources
+D:\SEMESTER 4 (SEDANG BERLANGSUNG)\Pemrograman Visual\E-Book_Manager\E-Book_Manager\obj\Debug\E_Book_Manager.GUI.Tambah_Buku.resources
+D:\SEMESTER 4 (SEDANG BERLANGSUNG)\Pemrograman Visual\E-Book_Manager\E-Book_Manager\obj\Debug\E_Book_Manager.GUI.add_book.resources
+C:\Users\Owner\source\repos\E-Book_Manager\E-Book_Manager\bin\Debug\E-Book_Manager.exe.config
+C:\Users\Owner\source\repos\E-Book_Manager\E-Book_Manager\bin\Debug\E-Book_Manager.exe
+C:\Users\Owner\source\repos\E-Book_Manager\E-Book_Manager\bin\Debug\E-Book_Manager.pdb
+C:\Users\Owner\source\repos\E-Book_Manager\E-Book_Manager\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Owner\source\repos\E-Book_Manager\E-Book_Manager\bin\Debug\Google.Protobuf.dll
+C:\Users\Owner\source\repos\E-Book_Manager\E-Book_Manager\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Owner\source\repos\E-Book_Manager\E-Book_Manager\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Owner\source\repos\E-Book_Manager\E-Book_Manager\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Owner\source\repos\E-Book_Manager\E-Book_Manager\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Owner\source\repos\E-Book_Manager\E-Book_Manager\bin\Debug\MySql.Data.dll
+C:\Users\Owner\source\repos\E-Book_Manager\E-Book_Manager\bin\Debug\System.Buffers.dll
+C:\Users\Owner\source\repos\E-Book_Manager\E-Book_Manager\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Owner\source\repos\E-Book_Manager\E-Book_Manager\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Owner\source\repos\E-Book_Manager\E-Book_Manager\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Owner\source\repos\E-Book_Manager\E-Book_Manager\bin\Debug\System.Memory.dll
+C:\Users\Owner\source\repos\E-Book_Manager\E-Book_Manager\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Owner\source\repos\E-Book_Manager\E-Book_Manager\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Owner\source\repos\E-Book_Manager\E-Book_Manager\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Owner\source\repos\E-Book_Manager\E-Book_Manager\bin\Debug\ZstdSharp.dll
+C:\Users\Owner\source\repos\E-Book_Manager\E-Book_Manager\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Owner\source\repos\E-Book_Manager\E-Book_Manager\bin\Debug\Google.Protobuf.pdb
+C:\Users\Owner\source\repos\E-Book_Manager\E-Book_Manager\bin\Debug\Google.Protobuf.xml
+C:\Users\Owner\source\repos\E-Book_Manager\E-Book_Manager\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Owner\source\repos\E-Book_Manager\E-Book_Manager\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Owner\source\repos\E-Book_Manager\E-Book_Manager\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Owner\source\repos\E-Book_Manager\E-Book_Manager\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Owner\source\repos\E-Book_Manager\E-Book_Manager\bin\Debug\MySql.Data.xml
+C:\Users\Owner\source\repos\E-Book_Manager\E-Book_Manager\bin\Debug\System.Buffers.xml
+C:\Users\Owner\source\repos\E-Book_Manager\E-Book_Manager\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Owner\source\repos\E-Book_Manager\E-Book_Manager\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Owner\source\repos\E-Book_Manager\E-Book_Manager\bin\Debug\System.Memory.xml
+C:\Users\Owner\source\repos\E-Book_Manager\E-Book_Manager\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Owner\source\repos\E-Book_Manager\E-Book_Manager\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Owner\source\repos\E-Book_Manager\E-Book_Manager\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Owner\source\repos\E-Book_Manager\E-Book_Manager\obj\Debug\E-Book_Manager.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\E-Book_Manager\E-Book_Manager\obj\Debug\E_Book_Manager.GUI.add_book.resources
+C:\Users\Owner\source\repos\E-Book_Manager\E-Book_Manager\obj\Debug\E_Book_Manager.GUI.detail.resources
+C:\Users\Owner\source\repos\E-Book_Manager\E-Book_Manager\obj\Debug\E_Book_Manager.GUI.Favorit_Menu.resources
+C:\Users\Owner\source\repos\E-Book_Manager\E-Book_Manager\obj\Debug\E_Book_Manager.GUI.Home.resources
+C:\Users\Owner\source\repos\E-Book_Manager\E-Book_Manager\obj\Debug\E_Book_Manager.GUI.home_menu.resources
+C:\Users\Owner\source\repos\E-Book_Manager\E-Book_Manager\obj\Debug\E_Book_Manager.GUI.Tambah_Buku.resources
+C:\Users\Owner\source\repos\E-Book_Manager\E-Book_Manager\obj\Debug\E_Book_Manager.Properties.Resources.resources
+C:\Users\Owner\source\repos\E-Book_Manager\E-Book_Manager\obj\Debug\E-Book_Manager.csproj.GenerateResource.cache
+C:\Users\Owner\source\repos\E-Book_Manager\E-Book_Manager\obj\Debug\E-Book_Manager.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\E-Book_Manager\E-Book_Manager\obj\Debug\E-Book_M.3E04D1E2.Up2Date
+C:\Users\Owner\source\repos\E-Book_Manager\E-Book_Manager\obj\Debug\E-Book_Manager.exe
+C:\Users\Owner\source\repos\E-Book_Manager\E-Book_Manager\obj\Debug\E-Book_Manager.pdb
